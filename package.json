@@ -17,13 +17,13 @@
     "handlebars": "^4.7.7"
   },
   "devDependencies": {
-    "@tsconfig/node16": "^1.0.3",
-    "@types/node": "~18.15.5",
+    "@tsconfig/node24": "24.0.4",
+    "@types/node": "24.1.0",
     "esbuild": "^0.17.12",
     "prettier": "^2.8.6",
     "prettier-plugin-organize-imports": "^3.2.2",
     "prettier-plugin-pkg": "^0.17.1",
-    "typescript": "^4.9.5"
+    "typescript": "5.9.3"
   },
   "packageManager": "pnpm@9.6.0+sha512.38dc6fba8dba35b39340b9700112c2fe1e12f10b17134715a4aa98ccf7bb035e76fd981cf0bb384dfa98f8d6af5481c2bef2f4266a24bfa20c34eb7147ce0b5e"
 }
